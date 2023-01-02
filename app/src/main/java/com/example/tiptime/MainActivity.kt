@@ -1,5 +1,3 @@
-
-
 package com.example.tiptime
 
 import android.content.Context
